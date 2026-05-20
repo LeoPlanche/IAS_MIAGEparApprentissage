@@ -13,3 +13,5 @@ Vous pouvez ici trouver les examens précédents pour le cours d'IAS des filièr
 https://gitlab.inria.fr/flandes/ias/-/tree/master/annales-examens
 
 L'examen suivra ce type de construction, avec environ un tiers des points sur un exercice similaire au TD7, un tiers sur des applications directes du cours (quasi questions de cours) et un tiers autre. 
+
+Documents autorisés : 3 feuilles **manuscrites**  (3 recto-verso, donc 6 pages) de notes personnelles.
